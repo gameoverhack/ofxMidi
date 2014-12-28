@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FDC059B3-3D0E-4C24-AB2E-003E244D3593</string>
+	<key>IDESourceControlProjectName</key>
+	<string>InputExample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>25877C0A-D9FD-4F8E-BFE3-A82AB6603107</key>
+		<string>ssh://github.com/gameoverhack/openFrameworks.git</string>
+		<key>EBA58546-2963-4BDA-A487-365730997B3D</key>
+		<string>ssh://github.com/gameoverhack/ofxMidi.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>addons/ofxMidi/example-input/InputExample.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>25877C0A-D9FD-4F8E-BFE3-A82AB6603107</key>
+		<string>../../../../..</string>
+		<key>EBA58546-2963-4BDA-A487-365730997B3D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/gameoverhack/ofxMidi.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>25877C0A-D9FD-4F8E-BFE3-A82AB6603107</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>EBA58546-2963-4BDA-A487-365730997B3D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ofxMidi</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>25877C0A-D9FD-4F8E-BFE3-A82AB6603107</string>
+			<key>IDESourceControlWCCName</key>
+			<string>openFrameworks</string>
+		</dict>
+	</array>
+</dict>
+</plist>
